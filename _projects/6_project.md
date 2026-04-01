@@ -5,6 +5,7 @@ description: Sensor-based temperature control with motor driving and IoT monitor
 img: assets/img/6.jpg
 importance: 6
 category: engineering
+period: Spring 2019
 ---
 
 **Timeline:** Spring 2019

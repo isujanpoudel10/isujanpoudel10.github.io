@@ -5,6 +5,7 @@ description: Assistive smart waste container with sensing, RF control, and web-b
 img: assets/img/4.jpg
 importance: 5
 category: engineering
+period: 2019 - 2022
 ---
 
 **Timeline:** 2019 - 2022

@@ -5,6 +5,7 @@ description: End-to-end semantic image transmission over noisy channels using de
 img: assets/img/12.jpg
 importance: 1
 category: research
+period: 2025 - Present
 ---
 
 **Timeline:** 2025 - Present

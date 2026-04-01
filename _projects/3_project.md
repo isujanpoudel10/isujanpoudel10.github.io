@@ -5,6 +5,7 @@ description: Simulation-driven modeling of near-field electromagnetic scattering
 img: assets/img/7.jpg
 importance: 3
 category: research
+period: 2025
 ---
 
 **Timeline:** January 2025 - December 2025

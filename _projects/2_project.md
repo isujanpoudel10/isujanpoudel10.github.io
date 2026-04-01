@@ -5,6 +5,7 @@ description: GNU Radio implementation and telemetry analysis for CubeSat communi
 img: assets/img/3.jpg
 importance: 2
 category: research
+period: 2022 - 2023
 ---
 
 **Timeline:** 2022 - 2023

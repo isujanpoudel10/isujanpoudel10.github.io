@@ -5,6 +5,7 @@ description: IoT-enabled waste monitoring with sensing, wireless transmission, a
 img: assets/img/1.jpg
 importance: 4
 category: engineering
+period: 2020 - 2022
 ---
 
 **Timeline:** 2020 - 2022
