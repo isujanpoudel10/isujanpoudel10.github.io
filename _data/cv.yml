@@ -25,8 +25,18 @@ cv:
         studyType: Master of Science
         end_date: 2026-12
         highlights:
-          - Expected graduation: December 2026
+          - "Expected graduation: December 2026"
           - Graduate study focused on wireless communications, machine learning, and signal processing.
+
+      - institution: Kathmandu University
+        location: Nepal
+        area: Electrical and Electronics (Communication) Engineering
+        studyType: Bachelor of Engineering
+        start_date: 2018-08
+        end_date: 2023-06
+        score: "CGPA: 3.77 / 4.0"
+        highlights:
+          - "Rank: 1 in batch"
 
       - institution: Oxford Secondary School
         location: Nawalpur, Nepal
