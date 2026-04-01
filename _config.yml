@@ -10,11 +10,10 @@ contact_note: >
   The best way to reach me is by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Computer Engineering student with background in Electrical, Electronics, and Communication Engineering interested in AI, machine learning, research, IoT, wireless communication, robotics, embedded systems, and RF antenna systems.
-footer_text: >
-  © 2026 Sujan Poudel.
+footer_text:
 keywords: sujan poudel, portfolio, computer engineering, ai, machine learning, research, iot, wireless communication, robotics, embedded systems, rf antenna # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: my_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://isujanpoudel10.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
