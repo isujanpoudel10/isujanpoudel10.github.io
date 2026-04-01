@@ -23,28 +23,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-education",
+          title: "education",
+          description: "Academic background and graduate study.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/education/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "nav-experience",
+          title: "experience",
+          description: "Research, academic, and technical experience.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/experience/";
+          },
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
