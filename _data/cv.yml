@@ -28,7 +28,26 @@ cv:
           - Expected graduation: December 2026
           - Graduate study focused on wireless communications, machine learning, and signal processing.
 
+      - institution: Oxford Secondary School
+        location: Nawalpur, Nepal
+        area: Science
+        studyType: Secondary Education, National Examinations Board (NEB)
+        start_date: 2016
+        end_date: 2018
+        score: "CGPA: 3.63"
+        courses: Physics I and II, Chemistry I and II, Mathematics, Computer Science, English
+
     Experience:
+      - company: University of Nebraska-Lincoln
+        position: Graduate Teaching Assistant
+        location: Lincoln, Nebraska, USA
+        start_date: 2026-01
+        summary: Teaching assistant for Machine Learning and Operating Systems courses.
+        highlights:
+          - Guided students on machine learning concepts, including supervised learning, neural networks, and model evaluation.
+          - Assisted with operating systems concepts, design topics, and coursework support.
+          - Helped with programming assignments, project debugging, and student mentoring.
+
       - company: University of Nebraska-Lincoln
         position: Graduate Research Assistant
         location: Lincoln, Nebraska, USA
@@ -40,10 +59,62 @@ cv:
           - Developed and evaluated propagation models for electromagnetic waves in the near-field region.
           - Performed data collection, post-processing, and analysis for wireless system characterization.
 
-      - company: University of Nebraska-Lincoln
-        position: Graduate Student and Researcher in Computer Engineering
-        location: Lincoln, Nebraska, USA
-        summary: Academic and research work spanning wireless communications, semantic communications, signal processing, and hardware-oriented system development.
+      - company: Department of Electrical and Electronics Engineering, Kathmandu University
+        position: Electrical and Electronics (Communication) Engineer
+        location: Kathmandu, Nepal
+        start_date: 2023-08
+        end_date: 2024-12
+        summary: Supported laboratory operations, academic delivery, equipment management, and student project work.
+        highlights:
+          - Assisted faculty members in laboratory manual preparation and academic laboratory session facilitation.
+          - Organized and revitalized departmental laboratories and oversaw equipment maintenance and calibration.
+          - Collaborated with faculty to operate systems and test equipment within the department.
+          - Guided undergraduate students in academic projects and laboratory tasks.
+
+      - company: Technical Operation Center, Dish Media Pvt. Ltd.
+        position: Broadcast Intern
+        location: Nepal
+        start_date: 2023
+        end_date: 2023
+        summary: Internship focused on broadcast monitoring and headend system troubleshooting.
+        highlights:
+          - Monitored and troubleshot issues in DTH headend systems.
+          - Monitored and troubleshot IPTV system issues.
+          - Configured IRD/PIRD, Data Video Decoder, and AGC components of the headend.
+
+    Other Experience:
+      - company: Society of Electrical and Electronic Engineer (SEEE), Kathmandu University
+        position: Raspberry Pi Instructor
+        location: Kathmandu, Nepal
+        start_date: 2022
+        end_date: 2022
+        summary: Delivered a two-day Raspberry Pi training for undergraduate students across levels.
+        highlights:
+          - Covered Raspberry Pi setup and remote access.
+          - Taught web server installation and setup.
+          - Guided students on GPIO usage, server basics, and mini-project development.
+
+      - company: Society of Electrical and Electronic Engineer (SEEE), Kathmandu University
+        position: Technical Event Head
+        location: Kathmandu, Nepal
+        start_date: 2022
+        end_date: 2022
+        summary: Led and supported technical events including hackathons, competitions, and workshops.
+        highlights:
+          - Managed and supervised technology-focused events.
+          - Served as a workshop trainer.
+          - Supported event planning and technical execution.
+
+      - company: Kathmandu University Robotics Club
+        position: General Member
+        location: Kathmandu, Nepal
+        start_date: 2018
+        end_date: 2023
+        summary: Contributed to robotics and engineering projects within the club.
+        highlights:
+          - Contributed to the study, design, and testing of a radio telescope.
+          - Worked on remote-control car design and development.
+          - Supported project supervision and hands-on technical work.
 
     Projects:
       - name: GAN-Based Semantic Communication
