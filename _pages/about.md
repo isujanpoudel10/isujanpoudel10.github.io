@@ -6,7 +6,7 @@ subtitle: Graduate Student and Researcher in Computer Engineering at the Univers
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Sujan_Poudel.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Nebraska-Lincoln</p>
